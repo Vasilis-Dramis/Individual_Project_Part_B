@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F9541A9E-5CF6-4510-8C89-8B2705CB7382}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IndividualProjectPartB_GeorgeMalandris</RootNamespace>
-    <AssemblyName>IndividualProjectPartB_GeorgeMalandris</AssemblyName>
+    <RootNamespace>IndividualProjectPartB</RootNamespace>
+    <AssemblyName>IndividualProjectPartB</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
