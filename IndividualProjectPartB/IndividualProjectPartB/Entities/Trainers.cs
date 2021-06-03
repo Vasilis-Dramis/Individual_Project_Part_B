@@ -1,4 +1,4 @@
-namespace IndividualProjectPartB_GeorgeMalandris.Entities
+namespace IndividualProjectPartB.Entities
 {
     using System;
     using System.Collections.Generic;
